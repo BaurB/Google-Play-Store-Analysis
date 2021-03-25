@@ -10,3 +10,5 @@ There are four sections in the Notebook, namely:
 * Data Cleaning
 * Data Visualization
 * Machine Learning Models Implemetation 
+
+The notebook was originally posted on Kaggle: https://www.kaggle.com/bauyrzhanbatayev/google-play-store-dataset-eda
